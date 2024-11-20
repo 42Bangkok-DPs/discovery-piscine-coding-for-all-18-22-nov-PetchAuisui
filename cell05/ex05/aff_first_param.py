@@ -1,5 +1,6 @@
+#!/usr/bin/env python
 import sys
 if len(sys.argv) > 1:
-  print(f"Number of parameters: {len(sys.argv) - 1}")
+    print(sys.argv[1])
 else:
-  print("Number of parameters: 0")
+    print("none")
