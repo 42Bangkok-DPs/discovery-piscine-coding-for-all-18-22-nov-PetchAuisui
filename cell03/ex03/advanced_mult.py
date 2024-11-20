@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 i = 0
 while i <= 10:
     x = 0
