@@ -1,4 +1,3 @@
-fname = input("Hey, what's your first name? : ")
-fname = Sfname.strip()
+fname = input("Hey, what's your first name? : ").strip()
 lname  = input("And your last name? : ")    
-print("Well, pleased to meet you,", fname +" "+ lname)
+print("Well, pleased to meet you,", fname , lname)
