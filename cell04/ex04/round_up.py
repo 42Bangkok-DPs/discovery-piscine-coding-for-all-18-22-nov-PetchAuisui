@@ -1,4 +1,4 @@
-#!/usr/bin/env python1
+#!/usr/bin/env python
 number = float(input("Give me a number: "))
 if number == int(number):
   rounded_number = int(number)
